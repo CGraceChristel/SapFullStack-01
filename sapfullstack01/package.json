@@ -2,7 +2,8 @@
   "name": "sapfullstack01",
   "version": "1.0.0",
   "dependencies": {
-    "@sap/cds": "^9"
+    "@sap/cds": "^7",
+    "express":"^4"
   },
   "devDependencies": {
     "@cap-js/sqlite": "^2.4"
